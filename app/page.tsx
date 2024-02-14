@@ -11,7 +11,7 @@ export default function Home() {
         </nav>
       </div>
       <div className={styles.content}>
-        <h2>Hola, mi nombre es Ángel García Mendoza del grupo TI03SM-22</h2>
+        <h2>Mi nombre es Ángel García Mendoza del grupo TI03SM-22</h2>
       </div>
     </main>
   );
