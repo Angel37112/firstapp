@@ -13,3 +13,11 @@
 .navbar a{
     cursor: pointer;
 }
+
+.content {
+    grid-row: 2 / 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+  }
